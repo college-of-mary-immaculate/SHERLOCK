@@ -1,0 +1,6 @@
+request==2.32.3
+customtkinter==5.2.2
+beautifulsoup4==4.12.3
+pip==24.2
+
+
