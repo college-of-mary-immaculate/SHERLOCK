@@ -13,7 +13,7 @@ A system that locates or finds any social media platforms that the specified use
 ## 2. Install required libraries
     pip install -r requirements.txt 
 ## 3.Run the Application
-    python samplle.py
+    python sample.py
 ## Credits To
     https://www.youtube.com/@afshanaqvi
 - vscode
